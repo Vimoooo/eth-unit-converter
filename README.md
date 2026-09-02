@@ -1,4 +1,4 @@
-const { ethers } = require("ethers");
+ { ethers } = require("ethers");
 
 const eth = "1.5";
 
